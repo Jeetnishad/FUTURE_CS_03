@@ -92,14 +92,5 @@ This project focuses on assessing and improving the security of a personal/home 
 
 This repository is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use this material for learning, research, or academic purposes.
 
----
 
-## 📸 Screenshots Preview (Optional for GitHub Pages)
-
-You can create a GitHub Pages or `docs/` folder to visually present:
-- Network topology diagrams
-- Device list table
-- Before/after hardening steps
-
----
 
